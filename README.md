@@ -1,9 +1,7 @@
 - Hi, I’m @gracecwh
 - I’m interested in Python and Data analysis
--  I’m currently learning Python and SQL 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her
+- I’m currently learning Python and SQL 
+- Pronouns: She/Her
 - Fun fact: I am a M.A. student in literature and I never expect myself here
 
 <!---
